@@ -8,6 +8,9 @@ Useful resources to help you pass the AZ-400 exam.
     <a href="https://docs.microsoft.com/en-us/certifications/exams/az-400" target="_blank">Microsoft Official Documentation</a> [English]<br>
     Certification page (learning paths, pricing, skills measured, etc.).<br>
     <br>
+    <a href="https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/tree/master/Instructions/Labs" target="_blank">Microsoft Learning Labs</a> [English]<br>
+    Microsoft official labs.<br>
+    <br>
     <a href="https://www.aguidetocloud.com/full-courses/az400fullcourse" target="_blank">Susanth Sutheesh - Azure DevOps Solutions Course</a> [English]<br>
     4 hours YouTube video. You can also buy the presentation and practice questions on his website.<br>
     <br>
