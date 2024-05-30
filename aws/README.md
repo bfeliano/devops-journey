@@ -1,6 +1,9 @@
 # Amazon Web Services - AWS
 
-[[_TOC_]]
+# Table of Contents
+
+- [Cloud Practitioner](#cloud-practitioner)
+- [Solutions Architect - Associate](#solutions-architect---associate)
 
 <div>
     <br>
@@ -8,10 +11,12 @@
     AWS official Ramp-Up guide. It shows the main topics and learning resources of DevOps on AWS (mixed between free and paid content). <br>
 </div> 
 
-
 ## Cloud Practitioner
+
 Useful resources to help you pass the AWS Cloud Practitioner exam.
+
 ### Free
+
 <div>
     <a href="https://www.exampro.co/clf-c01" target="_blank">ExamPro - AWS Certified Cloud Practitioner Course</a> [English]<br>
     ExamPro course based on the certification content with one Practice Exam.<br>
@@ -25,6 +30,7 @@ Useful resources to help you pass the AWS Cloud Practitioner exam.
 </div> 
 
 ### Paid
+
 <div>
     <a href="https://www.udemy.com/course/aws-certified-cloud-practitioner-new/" target="_blank">Udemy - Ultimate AWS Certified Cloud Practitioner</a> [English]<br>
     Udemy course provided by Stephane Maarek, one of the best AWS instructors around.<br>
@@ -36,8 +42,11 @@ Useful resources to help you pass the AWS Cloud Practitioner exam.
 <br>
 
 ## Solutions Architect - Associate
+
 Useful resources to help you pass the AWS Solutions Architect Associate exam.
+
 ### Free
+
 <div>
     <a href="https://pages.awscloud.com/LATAM-event-OE-get-cert-saa-ptbr-sob-demanda-2022-confirmation.html" target="_blank">AWS Official Exam Revision</a> [Portuguese]<br>
     Three hours video provided by the Brazilian AWS training team.<br>
