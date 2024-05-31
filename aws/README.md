@@ -1,15 +1,15 @@
 # Amazon Web Services - AWS
 
-# Table of Contents
+## Table of Contents
 
 - [Foundational](#foundational)
   - [Cloud Practitioner](#cloud-practitioner)
 - [Associate](#associate)
-  - [Solutions Architect - Associate](#solutions-architect---associate)
-  - [SysOps Administrator - Associate](#sysops-administrator---associate)
-  - [Data Engineer - Associate](#data-engineer---associate)
+  - [Solutions Architect - Associate](#solutions-architect)
+  - [SysOps Administrator - Associate](#sysops-administrator)
+  - [Data Engineer - Associate](#data-engineer)
 - [Professional](#professional)
-  - [DevOps Engineer - Professional](#devops-engineer---professional)
+  - [DevOps Engineer - Professional](#devops-engineer)
 
 ## Foundational
 
@@ -19,14 +19,19 @@ Useful learning resources to help you pass the AWS Cloud Practitioner exam.
 
 - #### Free
 
-[ExamPro - AWS Certified Cloud Practitioner Course](https://www.exampro.co/clf-c01) [English]  
-The ExamPro course is based on the certification content and includes one Practice Exam. The paid version offers five additional practice exams.  
+[ExamPro - AWS Certified Cloud Practitioner Course](https://www.exampro.co/clf-c01)
+[English]  
+The ExamPro course is based on the certification content and includes one
+Practice Exam. The paid version offers five additional practice exams.  
 
-[DigitalCloud - Cheat Sheets](https://digitalcloud.training/category/aws-cheat-sheets/aws-cloud-practitioner) [English]  
+[DigitalCloud - Cheat Sheets](https://digitalcloud.training/category/aws-cheat-sheets/aws-cloud-practitioner)
+[English]  
 A collection of cheat sheets relevant to the AWS Cloud Practitioner exam.  
 
-[LinuxTips - Bonde da AWS](https://www.youtube.com/watch?v=VrQVDbgwFDs&t=10s) [Portuguese]  
-A YouTube video created by LinuxTips in collaboration with AWS employees, covering all exam topics.  
+[LinuxTips - Bonde da AWS](https://www.youtube.com/watch?v=VrQVDbgwFDs&t=10s)
+[Portuguese]  
+A YouTube video created by LinuxTips in collaboration with AWS employees, 
+covering all exam topics.  
 
 - #### Paid
 
