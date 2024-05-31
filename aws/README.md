@@ -1,46 +1,83 @@
 # Amazon Web Services - AWS
 
-<div>
-    <br>
-    <a href="https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_DevOps.pdf" target="_blank">AWS Ramp-Up Guide: DevOps Engineer</a> [English]<br>
-    AWS official Ramp-Up guide. It shows the main topics and learning resources of DevOps on AWS (mixed between free and paid content). <br>
-</div> 
+# Table of Contents
 
+- [Foundational](#foundational)
+  - [Cloud Practitioner](#cloud-practitioner)
+- [Associate](#associate)
+  - [Solutions Architect - Associate](#solutions-architect---associate)
+  - [SysOps Administrator - Associate](#sysops-administrator---associate)
+  - [Data Engineer - Associate](#data-engineer---associate)
+- [Professional](#professional)
+  - [DevOps Engineer - Professional](#devops-engineer---professional)
 
-## Cloud Practitioner
-Useful resources to help you pass the AWS Cloud Practitioner exam.
-### Free
-<div>
-    <a href="https://www.exampro.co/clf-c01" target="_blank">ExamPro - AWS Certified Cloud Practitioner Course</a> [English]<br>
-    ExamPro course based on the certification content with one Practice Exam.<br>
-    <br>
-    <a href="https://digitalcloud.training/category/aws-cheat-sheets/aws-cloud-practitioner/" target="_blank">DigitalCloud - Cheat Sheets</a> [English]<br>
-    A a collection of cheat sheets relevant to the AWS Cloud Practitioner exam.<br>
-    <br>
-    <a href="https://www.youtube.com/watch?v=VrQVDbgwFDs&t=10s" target="_blank">LinuxTips - Bonde da AWS</a> [Portuguese]<br>
-    YouTube video made by LinuxTips in collaboration with AWS employees, covering all topics of the exam.<br>
-    <br>
-</div> 
+## Foundational
 
-### Paid
-<div>
-    <a href="https://www.udemy.com/course/aws-certified-cloud-practitioner-new/" target="_blank">Udemy - Ultimate AWS Certified Cloud Practitioner</a> [English]<br>
-    Udemy course provided by Stephane Maarek, one of the best AWS instructors around.<br>
-    <br>
-    <a href="https://www.whizlabs.com/aws-certified-cloud-practitioner/" target="_blank">Whizlabs - AWS Certified Cloud Practitioner</a> [English]<br>
-    Whizlabs practice tests are well recommended. You can use the code whiz30launch for a discount.<br>
-    <br>
-</div> 
-<br>
+### Cloud Practitioner
 
-## Solutions Architect - Associate
-Useful resources to help you pass the AWS Solutions Architect Associate exam.
-### Free
-<div>
-    <a href="https://pages.awscloud.com/LATAM-event-OE-get-cert-saa-ptbr-sob-demanda-2022-confirmation.html" target="_blank">AWS Official Exam Revision</a> [Portuguese]<br>
-    Three hours video provided by the Brazilian AWS training team.<br>
-    <br>
-    <a href="https://digitalcloud.training/category/aws-cheat-sheets/aws-cloud-practitioner/" target="_blank">DigitalCloud - Cheat Sheets</a> [English]<br>
-    A a collection of cheat sheets relevant to the AWS Solutions Architect Associate exam.<br>
-    <br>
-</div> 
+Useful learning resources to help you pass the AWS Cloud Practitioner exam.  
+
+- #### Free
+
+[ExamPro - AWS Certified Cloud Practitioner Course](https://www.exampro.co/clf-c01) [English]  
+The ExamPro course is based on the certification content and includes one Practice Exam. The paid version offers five additional practice exams.  
+
+[DigitalCloud - Cheat Sheets](https://digitalcloud.training/category/aws-cheat-sheets/aws-cloud-practitioner) [English]  
+A collection of cheat sheets relevant to the AWS Cloud Practitioner exam.  
+
+[LinuxTips - Bonde da AWS](https://www.youtube.com/watch?v=VrQVDbgwFDs&t=10s) [Portuguese]  
+A YouTube video created by LinuxTips in collaboration with AWS employees, covering all exam topics.  
+
+- #### Paid
+
+[Udemy - Ultimate AWS Certified Cloud Practitioner](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/) [English]  
+A Udemy course by Stephane Maarek, one of the best AWS instructors.  
+
+[Whizlabs - AWS Certified Cloud Practitioner](https://www.whizlabs.com/aws-certified-cloud-practitioner/) [English]  
+The Whizlabs practice tests are highly recommended.  
+
+## Associate
+
+### Solutions Architect
+
+Useful learning resources to help you pass the AWS Solutions Architect Associate exam.  
+
+- #### Free
+
+[AWS Official Exam Revision](https://pages.awscloud.com/LATAM-event-OE-get-cert-saa-ptbr-sob-demanda-2022-confirmation.html) [Portuguese]  
+A three-hour video provided by the Brazilian AWS training team.  
+
+[DigitalCloud - Cheat Sheets](https://digitalcloud.training/category/aws-cheat-sheets/aws-solutions-architect-associate/) [English]  
+A collection of cheat sheets relevant to the AWS Solutions Architect exam.  
+
+### SysOps Administrator
+
+Useful learning resources to help you pass the AWS SysOps Administrator Associate exam.  
+
+- #### Free
+
+[AWS Power Hour: SysOps](https://pages.awscloud.com/global-traincert-twitch-sysops.html) [English]  
+This six-episode training series on the AWS Twitch channel provides an in-depth look at the topics covered in the exam.  
+
+### Data Engineer
+
+Useful learning resources to help you pass the AWS Data Engineer Associate exam.  
+
+- #### Free
+
+[AWS Power Hour: Data Engineer Associate](https://pages.awscloud.com/GLOBAL-other-T2-Traincert-AWS-Power-Hour-Data-Engineer-Associate-Season1-2024-reg.html) [English]  
+This six-episode training series on the AWS Twitch channel provides an in-depth look at the topics covered in the exam.  
+
+## Professional
+
+### DevOps Engineer
+
+Useful learning resources to help you pass the AWS DevOps Engineer Professional exam.  
+
+- #### Free
+
+[AWS Ramp-Up Guide: DevOps Engineer](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_DevOps.pdf) [English]  
+Official AWS Ramp-Up guide. It outlines the main topics and learning materials for DevOps on AWS, including a mix of free and paid content.  
+
+[AWS Power Hour: DevOps Engineer](https://pages.awscloud.com/GLOBAL-other-LS-AWS-Power-Hour-DevOps-Engineer-2023-reg.html) [English]  
+This six-episode training series on the AWS Twitch channel provides an in-depth look at the topics covered in the exam.  
