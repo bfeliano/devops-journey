@@ -81,8 +81,12 @@ Useful learning resources to help you pass the AWS DevOps Engineer Professional 
 
 - #### Free
 
-[AWS Ramp-Up Guide: DevOps Engineer](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_DevOps.pdf) [English]  
-Official AWS Ramp-Up guide. It outlines the main topics and learning materials for DevOps on AWS, including a mix of free and paid content.  
+[AWS Ramp-Up Guide: DevOps Engineer](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_DevOps.pdf)
+[English]  
+Official AWS Ramp-Up guide. It outlines the main topics and
+learning materials for DevOps on AWS, including a mix of free and paid content.  
 
-[AWS Power Hour: DevOps Engineer](https://pages.awscloud.com/GLOBAL-other-LS-AWS-Power-Hour-DevOps-Engineer-2023-reg.html) [English]  
-This six-episode training series on the AWS Twitch channel provides an in-depth look at the topics covered in the exam.  
+[AWS Power Hour: DevOps Engineer](https://pages.awscloud.com/GLOBAL-other-LS-AWS-Power-Hour-DevOps-Engineer-2023-reg.html)
+[English]  
+This six-episode training series on the AWS Twitch channel
+provides an in-depth look at the topics covered in the exam.  
