@@ -47,7 +47,8 @@ The Whizlabs practice tests are highly recommended.
 
 ### Solutions Architect
 
-Useful learning resources to help you pass the AWS Solutions Architect Associate exam.  
+Useful learning resources to help you pass the
+AWS Solutions Architect Associate exam.  
 
 - #### Free
 
