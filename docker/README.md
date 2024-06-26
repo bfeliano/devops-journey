@@ -3,16 +3,15 @@
 Docker is an open-source platform that simplifies
 building, deploying, and managing containerized applications.  
 
-[LinuxTips - Descomplicando o Docker (YouTube)](https://www.youtube.com/playlist?list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR)
-[Portuguese]  
-Full Docker course available on YouTube.  
+## Portuguese
 
-[LinuxTips - Descomplicando o Docker (Book)](https://livro.descomplicandodocker.com.br)
-[Portuguese]  
-E-book provided by LinuxTips, offering insightful
-guidance on Docker, from basic to advanced topics.  
+| Nome | Tipo | Custo | Mais informações
+| ---- | ---- | ------| --------------
+| [LinuxTips - Descomplicando o Docker](https://www.youtube.com/playlist?list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR) | YouTube Playlist | Gratuito | Curso de Docker completo disponível no YouTube.
+| [LinuxTips - Descomplicando o Docker](https://livro.descomplicandodocker.com.br) | eBook | Gratuito | E-book fornecido pela LinuxTips, oferecendo orientações detalhadas sobre Docker, desde tópicos básicos até avançados.
 
-[LinuxTips - Descomplicando o Docker (YouTube)](https://www.youtube.com/watch?v=Wf2eSG3owoA)
-[English]  
-A four-hour YouTube course co-created by
-freeCodeCamp and AmigosCode.  
+## English
+
+| Name | Type | Pricing | Extra information
+| ---- | ---- | ------| --------------
+| [Docker and Kubernetes - Full Course for Beginners](https://www.youtube.com/watch?v=Wf2eSG3owoA) | YouTube Playlist | Free | A four-hour YouTube course co-created by freeCodeCamp and AmigosCode.
