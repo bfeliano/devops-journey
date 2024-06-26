@@ -7,7 +7,7 @@ Useful learning resources to help you pass the AZ-400 exam.
 ## English
 
 | Name | Type | Pricing | Extra information
-| ---- | ---- | ------| -------------- |
+| ---- | ---- | ------| --------------
 | [Microsoft Documentation](https://docs.microsoft.com/en-us/certifications/exams/az-400) | Website | Free | Microsoft's official certification page provides details including learning paths, pricing, and skills measured.
 | [Microsoft Learning Labs](https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/tree/master/Instructions/Labs) | GitHub Repo | Free | Microsoft's official labs offer practical, hands-on experiences.
 | [Susanth Sutheesh - Azure DevOps Solutions](https://www.aguidetocloud.com/full-courses/az400fullcourse) | YouTube Course | Free | A 4-hour YouTube video covering the main exam topics, serving as a valuable overview of what to expect in the exam.
@@ -16,7 +16,6 @@ Useful learning resources to help you pass the AZ-400 exam.
 
 ## Portuguese
 
-| Nome | Tipo | Custo | Mais informações 
-| ---- | ---- | ------| -------------- |
+| Nome | Tipo | Custo | Mais informações
+| ---- | ---- | ------| --------------
 | [Julio Arruda - Curso Azure DevOps](https://github.com/julioarruda/Curso-Azure-DevOps) | GitHub Repo | Gratuito | Curso completo no YouTube desenvolvido para ajudar você a compreender e utilizar o Azure DevOps de maneira eficaz.
-
