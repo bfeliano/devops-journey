@@ -12,6 +12,6 @@ building, deploying, and managing containerized applications.
 
 ## English
 
-| Name | Type | Language | Extra information
+| Name | Type | Pricing | Extra information
 | ---- | ---- | ------| -------------- |
 | [Docker and Kubernetes - Full Course for Beginners](https://www.youtube.com/watch?v=Wf2eSG3owoA) | YouTube Playlist | Free | A four-hour YouTube course co-created by freeCodeCamp and AmigosCode.  
