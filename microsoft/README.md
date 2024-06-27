@@ -19,3 +19,5 @@ Useful learning resources to help you pass the AZ-400 exam.
 | Nome | Tipo | Custo | Mais informações
 | ---- | ---- | ------| --------------
 | [Julio Arruda - Curso Azure DevOps](https://github.com/julioarruda/Curso-Azure-DevOps) | GitHub Repo | Gratuito | Curso completo no YouTube desenvolvido para ajudar você a compreender e utilizar o Azure DevOps de maneira eficaz.
+
+:leftwards_arrow_with_hook: [Back to Home](https://github.com/bfeliano/devops-journey)

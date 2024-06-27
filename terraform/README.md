@@ -20,3 +20,5 @@ HashiCorp Terraform Associate exam.
 | Nome | Tipo | Custo | Mais informações
 | ---- | ---- | ------| --------------
 | [Punk do DevOps - Youtube Playlist](https://www.youtube.com/playlist?list=PLFfGe1VU0nwQlT5l9dQa-Qgbyawd424Ux) | YouTube Playlist | Gratuito | Playlist no YouTube criada pela Punk do DevOps.
+
+:leftwards_arrow_with_hook: [Back to Home](https://github.com/bfeliano/devops-journey)
