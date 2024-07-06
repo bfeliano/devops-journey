@@ -1,10 +1,21 @@
 # Microsoft
 
+## AZ-104: Azure Administrator Associate
+
+### English
+
+Useful learning resources to help you pass the AZ-104 exam.  
+
+| Name | Type | Pricing | Extra information
+| ---- | ---- | ------| --------------
+| [Microsoft Documentation](https://docs.microsoft.com/en-us/certifications/exams/az-104) | Website | Free | Microsoft's official certification page provides details including learning paths, pricing, and skills measured.
+| [AZ-104 Exam Prep](https://www.udemy.com/course/70533-azure) | Course | Paid | An excellent Udemy course offered by Scott Duffy.
+
 ## AZ-400: Designing and Implementing Microsoft DevOps Solutions
 
 Useful learning resources to help you pass the AZ-400 exam.  
 
-## English
+### English
 
 | Name | Type | Pricing | Extra information
 | ---- | ---- | ------| --------------
