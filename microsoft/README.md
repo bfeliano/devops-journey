@@ -11,7 +11,7 @@ Useful learning resources to help you pass the AZ-104 exam.
 | [Microsoft Documentation](https://docs.microsoft.com/en-us/certifications/exams/az-104) | Website | Free | Microsoft's official certification page provides details including learning paths, pricing, and skills measured.
 | [AZ-104 Exam Prep](https://www.udemy.com/course/70533-azure) | Course | Paid | An excellent Udemy course offered by Scott Duffy.
 
-## Portuguese
+### Portuguese
 
 | Nome | Tipo | Custo | Mais informações
 | ---- | ---- | ------| --------------
@@ -31,7 +31,7 @@ Useful learning resources to help you pass the AZ-400 exam.
 | [John Savill - DevOps Master Class](https://github.com/johnthebrit/DevOpsMC) | GitHub Repo | Free | A YouTube course aimed at mastering Azure DevOps. Not focused on the certification but highly recommended.
 | [Whizlabs - Microsoft Azure DevOps Solutions](https://www.whizlabs.com/learn/course/microsoft-azure-certification-az-400/270) | Practice Test | Paid | The Whizlabs practice tests are highly recommended.
 
-## Portuguese
+### Portuguese
 
 | Nome | Tipo | Custo | Mais informações
 | ---- | ---- | ------| --------------
