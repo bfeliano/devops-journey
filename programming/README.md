@@ -1,7 +1,7 @@
 # Programming Languages
 
 Here, you will find courses, tips and other contents related to
-programming languages. 
+programming languages.
 
 ## Java Script
 
