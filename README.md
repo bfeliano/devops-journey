@@ -11,3 +11,4 @@ Some resources are available in Portuguese and some in English.
 [Terraform](terraform/README.md)  
 [Microsoft](microsoft/README.md)  
 [Docker](docker/README.md)  
+[Programming Languages](programming/README.md)  
