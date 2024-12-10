@@ -8,6 +8,7 @@
   - [Solutions Architect - Associate](#solutions-architect)
   - [SysOps Administrator - Associate](#sysops-administrator)
   - [Data Engineer - Associate](#data-engineer)
+  - [Machine Learning Engineer - Associate](#machine-learning-engineer)
 - [Professional](#professional)
   - [DevOps Engineer - Professional](#devops-engineer)
 
@@ -72,6 +73,17 @@ AWS Data Engineer Associate exam.
 | Name | Type | Pricing | Extra information
 | ---- | ---- | ------| --------------
 | [AWS Power Hour: Data Engineer Associate](https://pages.awscloud.com/GLOBAL-other-T2-Traincert-AWS-Power-Hour-Data-Engineer-Associate-Season1-2024-reg.html) | Twitch Videos | Free | This six-episode training series on the AWS Twitch channel provides an in-depth look at the topics covered in the exam.
+
+### Machine Learning Engineer
+
+Useful learning resources to help you pass the
+AWS Machine Learning Engineer Associate exam.  
+
+#### English
+
+| Name | Type | Pricing | Extra information
+| ---- | ---- | ------| --------------
+| [Whizlabs - Cheat Sheets](https://media.whizlabs.com/website/AWS-ML-Cheat-Sheet-Nov-2024.pdf) | PDF Document | Free | Useful information related to exam topics.
 
 ## Professional
 
