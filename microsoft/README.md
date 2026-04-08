@@ -23,7 +23,6 @@ Recursos de estudo úteis para ajudar na preparação para o exame
 | [Microsoft Documentation](https://docs.microsoft.com/en-us/certifications/exams/az-104) | Website | Gratuito | Página oficial da certificação, contendo trilhas de aprendizado, detalhes do exame, custos e habilidades avaliadas. |
 | [Udemy - AZ-104 Exam Prep](https://trk.udemy.com/QYKzbz) | Curso | Pago | Curso completo na Udemy ministrado por Scott Duffy. |
 
-
 ## AZ-400: Designing and Implementing Microsoft DevOps Solutions
 
 Recursos de estudo úteis para ajudar na preparação para o exame

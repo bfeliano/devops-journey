@@ -1,7 +1,7 @@
 # Programming Languages
 
 Aqui você encontra cursos, dicas e outros conteúdos relacionados a
-linguagens de programação, com foco em aprendizado prático e 
+linguagens de programação, com foco em aprendizado prático e
 aplicabilidade no dia a dia.  
 
 > ℹ️ **Aviso**  
