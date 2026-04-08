@@ -1,0 +1,8 @@
+title: DevOps Journey
+description: Este repositório foi criado para reunir links, materiais de estudo e referências que me ajudaram ao longo da minha jornada profissional.
+author: Bruno Feliano
+
+baseurl: "/devops-journey"
+url: "https://bfeliano.github.io"
+
+markdown: kramdown
