@@ -2,7 +2,7 @@
 
 > ℹ️ **Aviso**  
 > Os recursos listados neste documento são baseados na minha experiência
-pessoal e em ferramentas que utilizei ao longo da minha jornada profissional.  
+pessoal e nos materiais que utilizei ao longo da minha jornada profissional.  
 > Eles não representam uma lista oficial nem recomendações da AWS.
 
 ## Índice

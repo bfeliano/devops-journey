@@ -12,22 +12,28 @@ Alguns conteúdos estão disponíveis em **português**, outros em **inglês**.
 
 ## Recursos
 
-Os materiais estão organizados por tema:
+Nesta seção você encontra materiais organizados por tema, reunidos ao
+longo da minha jornada profissional em DevOps e Cloud. O foco está em
+certificações, aprendizado prático e aplicação real no dia a dia.
 
 - **[AWS](aws/README.md)**  
-  Serviços de cloud, boas práticas, arquitetura e automação na AWS.
+  Materiais de estudo para certificações da AWS,
+desde o nível fundamental até o profissional.
 
 - **[Terraform](terraform/README.md)**  
-  Infrastructure as Code, módulos, exemplos e referências úteis.
+  Conteúdos sobre Infrastructure as Code com Terraform,
+incluindo preparação para a certificação Terraform Associate.
 
 - **[Microsoft](microsoft/README.md)**  
-  Azure, ferramentas Microsoft e integrações com ambientes cloud.
+  Recursos voltados ao ecossistema Microsoft, com foco em Azure,
+Azure DevOps e certificações como AZ-104 e AZ-400.
 
 - **[Containers](containers/README.md)**  
-  Tecnologias relacionadas a containers, como Docker, Kubernetes, etc.
+  Conteúdos relacionados a containers, como Docker e Kubernetes, etc.
 
-- **[Programming Languages](programming/README.md)**  
-  Linguagens de programação, scripts e conceitos importantes para DevOps.
+- **[Linguagens de Programação](programming/README.md)**  
+  Cursos e referências sobre linguagens de programação utilizadas em
+automação e DevOps.
 
 ## 🎯 Observação
 

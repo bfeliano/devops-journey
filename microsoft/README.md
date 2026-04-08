@@ -1,40 +1,48 @@
 # Microsoft
 
+> ℹ️ **Aviso**  
+> Os recursos listados neste documento são baseados na minha experiência
+pessoal e nos materiais que utilizei ao longo da minha jornada profissional.  
+> Eles não representam recomendações oficiais da Microsoft.
+
 ## AZ-104: Azure Administrator Associate
 
-Useful learning resources to help you pass the AZ-104 exam.  
+Recursos de estudo úteis para ajudar na preparação para o exame
+**AZ-104: Microsoft Azure Administrator Associate**.  
 
-### English
+### Português
 
-| Name | Type | Pricing | Extra information
-| ---- | ---- | ------| --------------
-| [Microsoft Documentation](https://docs.microsoft.com/en-us/certifications/exams/az-104) | Website | Free | Microsoft's official certification page provides details including learning paths, pricing, and skills measured.
-| [AZ-104 Exam Prep](https://www.udemy.com/course/70533-azure) | Course | Paid | An excellent Udemy course offered by Scott Duffy.
+| Nome | Tipo | Custo | Mais informações |
+| ---- | ---- | ----- | ---------------- |
+| [Revisão prática AZ-104](https://www.youtube.com/watch?v=vkHZjrUd-qM) | YouTube | Gratuito | Live de aproximadamente 6 horas disponibilizada por Raphael Andrade, com foco em revisão prática para o exame. |
 
-### Portuguese
+### Inglês
 
-| Nome | Tipo | Custo | Mais informações
-| ---- | ---- | ------| --------------
-|[Revisão prática AZ-104](https://www.youtube.com/watch?v=vkHZjrUd-qM) | YouTube | Gratuito | Live de 6 horas no YouTube disponibilizada por Raphael Andrade.
+| Nome | Tipo | Custo | Mais informações |
+| ---- | ---- | ----- | ---------------- |
+| [Microsoft Documentation](https://docs.microsoft.com/en-us/certifications/exams/az-104) | Website | Gratuito | Página oficial da certificação, contendo trilhas de aprendizado, detalhes do exame, custos e habilidades avaliadas. |
+| [Udemy - AZ-104 Exam Prep](https://trk.udemy.com/QYKzbz) | Curso | Pago | Curso completo na Udemy ministrado por Scott Duffy. |
+
 
 ## AZ-400: Designing and Implementing Microsoft DevOps Solutions
 
-Useful learning resources to help you pass the AZ-400 exam.  
+Recursos de estudo úteis para ajudar na preparação para o exame
+**AZ-400: Designing and Implementing Microsoft DevOps Solutions**.  
 
-### English
+### Inglês
 
-| Name | Type | Pricing | Extra information
-| ---- | ---- | ------| --------------
-| [Microsoft Documentation](https://docs.microsoft.com/en-us/certifications/exams/az-400) | Website | Free | Microsoft's official certification page provides details including learning paths, pricing, and skills measured.
-| [Microsoft Learning Labs](https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/tree/master/Instructions/Labs) | GitHub Repo | Free | Microsoft's official labs offer practical, hands-on experiences.
-| [Susanth Sutheesh - Azure DevOps Solutions](https://www.aguidetocloud.com/full-courses/az400fullcourse) | YouTube Course | Free | A 4-hour YouTube video covering the main exam topics, serving as a valuable overview of what to expect in the exam.
-| [John Savill - DevOps Master Class](https://github.com/johnthebrit/DevOpsMC) | GitHub Repo | Free | A YouTube course aimed at mastering Azure DevOps. Not focused on the certification but highly recommended.
-| [Whizlabs - Microsoft Azure DevOps Solutions](https://www.whizlabs.com/learn/course/microsoft-azure-certification-az-400/270) | Practice Test | Paid | The Whizlabs practice tests are highly recommended.
+| Nome | Tipo | Custo | Mais informações |
+| ---- | ---- | ----- | ---------------- |
+| [Microsoft Documentation](https://docs.microsoft.com/en-us/certifications/exams/az-400) | Website | Gratuito | Página oficial da certificação, com detalhes sobre o exame, trilhas de estudo e competências avaliadas. |
+| [Microsoft Learning Labs](https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/tree/master/Instructions/Labs) | Repositório GitHub | Gratuito | Laboratórios oficiais da Microsoft com exercícios práticos e hands-on. |
+| [Susanth Sutheesh - Azure DevOps Solutions](https://www.aguidetocloud.com/certifications/az-400-full-course-microsoft-devops-engineer-certification-training/) | YouTube | Gratuito | Vídeo de aproximadamente 4 horas cobrindo os principais tópicos do exame e servindo como uma excelente visão geral. |
+| [John Savill - DevOps Master Class](https://github.com/johnthebrit/DevOpsMC) | Repositório GitHub | Gratuito | Curso completo focado em Azure DevOps. Não é específico para a certificação, mas altamente recomendado. |
+| [Whizlabs - Microsoft Azure DevOps Solutions](https://www.whizlabs.com/learn/course/microsoft-azure-certification-az-400/270) | Simulados | Pago | Conjunto de simulados bastante recomendado para preparação final. |
 
-### Portuguese
+### Português
 
-| Nome | Tipo | Custo | Mais informações
-| ---- | ---- | ------| --------------
-| [Julio Arruda - Curso Azure DevOps](https://github.com/julioarruda/Curso-Azure-DevOps) | GitHub Repo | Gratuito | Curso completo no YouTube desenvolvido para ajudar você a compreender e utilizar o Azure DevOps de maneira eficaz.
+| Nome | Tipo | Custo | Mais informações |
+| ---- | ---- | ----- | ---------------- |
+| [Julio Arruda - Curso Azure DevOps](https://github.com/julioarruda/Curso-Azure-DevOps) | Repositório GitHub | Gratuito | Curso completo desenvolvido para ajudar na compreensão e utilização prática do Azure DevOps. |
 
-:leftwards_arrow_with_hook: [Back to Home](https://github.com/bfeliano/devops-journey)
+⬅️ [Voltar ao início](../README.md)
