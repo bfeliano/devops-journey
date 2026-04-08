@@ -1,14 +1,19 @@
 # Programming Languages
 
-Here, you will find courses, tips and other contents related to
-programming languages.
+Aqui você encontra cursos, dicas e outros conteúdos relacionados a
+linguagens de programação, com foco em aprendizado prático e
+aplicabilidade no dia a dia.  
 
-## Java Script
+> ℹ️ **Aviso**  
+> Os recursos listados neste documento são baseados na minha experiência
+pessoal e nos materiais que utilizei ao longo da minha jornada profissional.  
 
-### English
+## JavaScript
 
-| Name | Type | Pricing | Extra information
-| ---- | ---- | ------| --------------
-| [Udemy - The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course) | Course | Paid | Very complete course. From beginner to expert, with coding challenges and lots of practice.
+### Inglês
 
-:leftwards_arrow_with_hook: [Back to Home](https://github.com/bfeliano/devops-journey)
+| Nome | Tipo | Custo | Mais informações |
+| ---- | ---- | ----- | ---------------- |
+| [Udemy – The Complete JavaScript Course](https://trk.udemy.com/gRoLA0) | Curso | Pago | Curso bastante completo, que vai do nível iniciante ao avançado, com muitos desafios práticos e exercícios de fixação. |
+
+⬅️ [Voltar ao início](../README.md)

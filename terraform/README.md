@@ -1,24 +1,33 @@
 # Terraform
 
-Terraform is an infrastructure as code tool that lets you build,
-change, and version cloud and on-prem resources safely and efficiently.  
+Terraform é uma ferramenta de **Infrastructure as Code (IaC)** que permite
+criar, modificar e versionar recursos de infraestrutura em ambientes de cloud
+e on‑premises de forma segura e eficiente.
+
+> ℹ️ **Aviso**  
+> Os recursos listados neste documento são baseados na minha experiência
+pessoal e nos materiais que utilizei ao longo da minha jornada profissional.  
+> Eles não representam recomendações oficiais da HashiCorp.
 
 ## HashiCorp Certified: Terraform Associate
 
-Useful learning resources to help you pass the
-HashiCorp Terraform Associate exam.  
+Recursos de estudo úteis para ajudar na preparação para o exame
+**HashiCorp Certified: Terraform Associate**.
 
-## English
+> ⭐ Certificação recomendada para quem está começando com
+Infrastructure as Code e Terraform  
 
-| Name | Type | Pricing | Extra information
-| ---- | ---- | ------| --------------
-| [HashiCorp Learn](https://learn.hashicorp.com/collections/terraform/certification-associate-tutorials) | Website | Free | Official HashiCorp tutorials.
-| [ExamPro Terraform Associate Certification](https://www.exampro.co/terraform) | Course | Free (Basic) | The ExamPro course is based on the certification content and includes one Practice Exam. The paid version offers four additional practice exams.
+## Português
 
-## Portuguese
+| Nome | Tipo | Custo | Mais informações |
+| ---- | ---- | ----- | ---------------- |
+| [Punk do DevOps - Terraform](https://www.youtube.com/playlist?list=PLFfGe1VU0nwQlT5l9dQa-Qgbyawd424Ux) | YouTube | Gratuito | Playlist criada pelo canal Punk do DevOps, cobrindo conceitos fundamentais de Terraform. |
 
-| Nome | Tipo | Custo | Mais informações
-| ---- | ---- | ------| --------------
-| [Punk do DevOps - Youtube Playlist](https://www.youtube.com/playlist?list=PLFfGe1VU0nwQlT5l9dQa-Qgbyawd424Ux) | YouTube Playlist | Gratuito | Playlist no YouTube criada pela Punk do DevOps.
+## Inglês
 
-:leftwards_arrow_with_hook: [Back to Home](https://github.com/bfeliano/devops-journey)
+| Nome | Tipo | Custo | Mais informações |
+| ---- | ---- | ----- | ---------------- |
+| [Hashicorp Learn](https://learn.hashicorp.com/collections/terraform/certification-associate-tutorials) | Website | Gratuito | Tutoriais oficiais da HashiCorp focados no exame Terraform Associate. |
+| [ExamPro – HashiCorp Certified: Terraform Associate](https://www.exampro.co/terraform) | Curso | Gratuito (Básico) | Curso baseado no conteúdo da certificação, incluindo um exame prático. A versão paga oferece exames adicionais. |
+
+⬅️ [Voltar ao início](../README.md)
