@@ -44,4 +44,4 @@ Recursos de estudo úteis para ajudar na preparação para o exame
 | ---- | ---- | ----- | ---------------- |
 | [Julio Arruda - Curso Azure DevOps](https://github.com/julioarruda/Curso-Azure-DevOps) | Repositório GitHub | Gratuito | Curso completo desenvolvido para ajudar na compreensão e utilização prática do Azure DevOps. |
 
-⬅️ [Voltar ao início](../README.md)
+⬅️ [Voltar ao início](../)

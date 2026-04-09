@@ -30,4 +30,4 @@ Infrastructure as Code e Terraform
 | [Hashicorp Learn](https://learn.hashicorp.com/collections/terraform/certification-associate-tutorials) | Website | Gratuito | Tutoriais oficiais da HashiCorp focados no exame Terraform Associate. |
 | [ExamPro – HashiCorp Certified: Terraform Associate](https://www.exampro.co/terraform) | Curso | Gratuito (Básico) | Curso baseado no conteúdo da certificação, incluindo um exame prático. A versão paga oferece exames adicionais. |
 
-⬅️ [Voltar ao início](../README.md)
+⬅️ [Voltar ao início](../)

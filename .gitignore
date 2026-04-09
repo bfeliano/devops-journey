@@ -1,0 +1,11 @@
+# Jekyll build output
+_site/
+
+# Bundler
+.bundle/
+vendor/
+
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
