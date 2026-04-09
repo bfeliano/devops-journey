@@ -1,3 +1,5 @@
+# DevOps Journey
+
 <div style="text-align: center;">
   <a href="https://github.com/bfeliano/devops-journey/" target="_blank">
     <img
@@ -9,9 +11,6 @@
     <img src="https://img.shields.io/github/stars/bfeliano/devops-journey?style=flat&logo=github&color=181717">
   </a>
 </div>
-
-# DevOps Journey
-
 
 Bem-vindo(a) ao repositório **DevOps Journey** 👋
 
