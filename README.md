@@ -1,4 +1,17 @@
+<div style="text-align: center;">
+  <a href="https://github.com/bfeliano/devops-journey/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-devops--journey-181717?style=flat&logo=github&logoColor=white"
+      alt="GitHub repository"
+    />
+  </a>
+  <a href="https://github.com/bfeliano/devops-journey" target="_blank">
+    <img src="https://img.shields.io/github/stars/bfeliano/devops-journey?style=flat&logo=github&color=181717">
+  </a>
+</div>
+
 # DevOps Journey
+
 
 Bem-vindo(a) ao repositório **DevOps Journey** 👋
 
@@ -16,22 +29,22 @@ Nesta seção você encontra materiais organizados por tema, reunidos ao
 longo da minha jornada profissional em DevOps e Cloud. O foco está em
 certificações, aprendizado prático e aplicação real no dia a dia.
 
-- **[AWS](aws/README.md)**  
+- **[AWS](aws/)**  
   Materiais de estudo para certificações da AWS,
 desde o nível fundamental até o profissional.
 
-- **[Terraform](terraform/README.md)**  
+- **[Terraform](terraform/)**  
   Conteúdos sobre Infrastructure as Code com Terraform,
 incluindo preparação para a certificação Terraform Associate.
 
-- **[Microsoft](microsoft/README.md)**  
+- **[Microsoft](microsoft/)**  
   Recursos voltados ao ecossistema Microsoft, com foco em Azure,
 Azure DevOps e certificações como AZ-104 e AZ-400.
 
 - **[Containers](containers/)**  
   Conteúdos relacionados a containers, como Docker e Kubernetes, etc.
 
-- **[Linguagens de Programação](programming/README.md)**  
+- **[Linguagens de Programação](programming/)**  
   Cursos e referências sobre linguagens de programação utilizadas em
 automação e DevOps.
 

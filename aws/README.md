@@ -108,4 +108,4 @@ Recursos de estudo para a preparação para o exame
 | ---- | ---- | ----- | ---------------- |
 | [AWS Ramp-Up Guide – DevOps Engineer](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_DevOps.pdf) | PDF | Gratuito | Guia oficial da AWS com os principais tópicos e materiais recomendados para DevOps na AWS. |
 
-⬅️ [Voltar ao início](../README.md)
+⬅️ [Voltar ao início](../)

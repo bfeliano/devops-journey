@@ -21,4 +21,4 @@ pessoal e nos materiais que utilizei ao longo da minha jornada profissional.
 | ---- | ---- | ----- | ---------------- |
 | [Docker and Kubernetes - Full Course for Beginners](https://www.youtube.com/watch?v=Wf2eSG3owoA) | YouTube | Gratuito | Curso introdutório de aproximadamente quatro horas, criado em parceria entre freeCodeCamp e Amigoscode, cobrindo Docker e Kubernetes. |
 
-⬅️ [Voltar ao início](../README.md)
+⬅️ [Voltar ao início](../)

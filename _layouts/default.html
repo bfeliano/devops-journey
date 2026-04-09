@@ -10,19 +10,39 @@
 <body>
   <header>
     <h1>{{ site.title }}</h1>
-    <p>{{ site.description }}</p>
+
     <nav>
       <a href="{{ site.baseurl }}/">Home</a>
       <a href="{{ site.baseurl }}/aws/">AWS</a>
-      <a href="{{ site.baseurl }}/containers/">Containers</a>
       <a href="{{ site.baseurl }}/terraform/">Terraform</a>
       <a href="{{ site.baseurl }}/microsoft/">Microsoft</a>
-      <a href="{{ site.baseurl }}/programming/">Programming</a>
+      <a href="{{ site.baseurl }}/containers/">Containers</a>
+      <a href="{{ site.baseurl }}/programming/">Linguagens de Programação</a>
     </nav>
   </header>
 
   <main>
     {{ content }}
   </main>
+  <footer>
+    <p>
+      Conteúdo mantido por <strong>{{ site.author }}</strong>
+    </p>
+
+    <p class="social-links">
+      {% if site.social.github %}
+        <a href="{{ site.social.github }}" target="_blank" rel="noopener noreferrer">
+          GitHub
+        </a>
+      {% endif %}
+
+      {% if site.social.linkedin %}
+        ·
+        <a href="{{ site.social.linkedin }}" target="_blank" rel="noopener noreferrer">
+          LinkedIn
+        </a>
+      {% endif %}
+    </p>
+  </footer>
 </body>
 </html>
