@@ -12,8 +12,17 @@ pessoal e nos materiais que utilizei ao longo da minha jornada profissional.
 
 ### Inglês
 
-| Nome | Tipo | Custo | Mais informações |
-| ---- | ---- | ----- | ---------------- |
-| [Udemy – The Complete JavaScript Course](https://trk.udemy.com/gRoLA0) | Curso | Pago | Curso bastante completo, que vai do nível iniciante ao avançado, com muitos desafios práticos e exercícios de fixação. |
+<div class="card-grid">
+{% for item in site.data.programming.javascript.ingles %}
+  {% include card.html
+    title=item.title
+    badge_class=item.badge_class
+    badge_text=item.badge_text
+    meta=item.meta
+    description=item.description
+    url=item.url
+  %}
+{% endfor %}
+</div>
 
 ⬅️ [Voltar ao início](../)

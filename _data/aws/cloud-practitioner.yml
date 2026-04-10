@@ -1,0 +1,43 @@
+portugues:
+  - title: "LinuxTips – Bonde da AWS"
+    badge_class: free
+    badge_text: Gratuito
+    meta: "📺 <strong>Tipo:</strong> YouTube<br>📈 <strong>Nível:</strong> Iniciante"
+    description: "Vídeo criado pela LinuxTips em colaboração com funcionários da AWS, cobrindo todos os tópicos do exame."
+    url: "https://www.youtube.com/watch?v=VrQVDbgwFDs&t=10s"
+
+  - title: "Udemy – AWS Certified Cloud Practitioner"
+    badge_class: paid
+    badge_text: Pago
+    meta: "📝 <strong>Tipo:</strong> Simulados<br>📈 <strong>Nível:</strong> Iniciante"
+    description: "Conjunto de simulados bastante recomendado para revisão final."
+    url: "https://trk.udemy.com/7XbLmQ"
+
+ingles:
+  - title: "DigitalCloud – Cheat Sheets"
+    badge_class: free
+    badge_text: Gratuito
+    meta: "🌐 <strong>Tipo:</strong> Website<br>📈 <strong>Nível:</strong> Iniciante"
+    description: "Coleção de cheat sheets relevantes para o exame Cloud Practitioner."
+    url: "https://digitalcloud.training/category/aws-cheat-sheets/aws-cloud-practitioner/"
+
+  - title: "ExamPro – AWS Certified Cloud Practitioner Course"
+    badge_class: freetier
+    badge_text: Gratuito*
+    meta: "🎓 <strong>Tipo:</strong> Curso<br>📈 <strong>Nível:</strong> Iniciante"
+    description: "Curso alinhado ao conteúdo da certificação, incluindo um exame prático. A versão paga oferece exames adicionais."
+    url: "https://www.exampro.co/clf-c02"
+
+  - title: "Udemy – Ultimate AWS Certified Cloud Practitioner"
+    badge_class: paid
+    badge_text: Pago
+    meta: "🎓 <strong>Tipo:</strong> Curso<br>📈 <strong>Nível:</strong> Iniciante"
+    description: "Curso ministrado por Stephane Maarek, um dos instrutores mais conhecidos de AWS."
+    url: "https://trk.udemy.com/VO4YDJ"
+
+  - title: "Whizlabs – AWS Certified Cloud Practitioner"
+    badge_class: paid
+    badge_text: Pago
+    meta: "📝 <strong>Tipo:</strong> Simulados<br>📈 <strong>Nível:</strong> Fundamental"
+    description: "Conjunto de simulados bastante recomendado para revisão final."
+    url: "https://www.whizlabs.com/aws-certified-cloud-practitioner/"

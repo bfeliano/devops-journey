@@ -1,0 +1,7 @@
+ingles:
+  - title: "AWS Ramp-Up Guide – DevOps Engineer"
+    badge_class: free
+    badge_text: Gratuito
+    meta: "📄 <strong>Tipo:</strong> PDF<br>📈 <strong>Nível:</strong> Avançado"
+    description: "Guia oficial da AWS com os principais tópicos e materiais recomendados para DevOps na AWS."
+    url: "https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_DevOps.pdf"

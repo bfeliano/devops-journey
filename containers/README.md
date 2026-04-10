@@ -10,15 +10,32 @@ pessoal e nos materiais que utilizei ao longo da minha jornada profissional.
 
 ## Português
 
-| Nome | Tipo | Custo | Mais informações |
-| ---- | ---- | ----- | ---------------- |
-| [LinuxTips - Descomplicando o Docker](https://www.youtube.com/playlist?list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR) | YouTube | Gratuito | Curso completo de Docker produzido pela LinuxTips, abordando desde conceitos básicos até tópicos mais avançados. |
-| [LinuxTips - Descomplicando o Docker](https://livro.descomplicandodocker.com.br) | eBook | Gratuito | E-book da LinuxTips com explicações detalhadas sobre Docker, uso prático e boas práticas. |
+<div class="card-grid">
+{% for item in site.data.containers.docker.portugues %}
+  {% include card.html
+    title=item.title
+    badge_class=item.badge_class
+    badge_text=item.badge_text
+    meta=item.meta
+    description=item.description
+    url=item.url
+  %}
+{% endfor %}
+</div>
 
 ## Inglês
 
-| Nome | Tipo | Custo | Mais informações |
-| ---- | ---- | ----- | ---------------- |
-| [Docker and Kubernetes - Full Course for Beginners](https://www.youtube.com/watch?v=Wf2eSG3owoA) | YouTube | Gratuito | Curso introdutório de aproximadamente quatro horas, criado em parceria entre freeCodeCamp e Amigoscode, cobrindo Docker e Kubernetes. |
+<div class="card-grid">
+{% for item in site.data.containers.docker.ingles %}
+  {% include card.html
+    title=item.title
+    badge_class=item.badge_class
+    badge_text=item.badge_text
+    meta=item.meta
+    description=item.description
+    url=item.url
+  %}
+{% endfor %}
+</div>
 
 ⬅️ [Voltar ao início](../)

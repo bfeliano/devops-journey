@@ -1,0 +1,22 @@
+portugues:
+  - title: "AWS – Revisão Oficial do Exame"
+    badge_class: free
+    badge_text: Gratuito
+    meta: "📺 <strong>Tipo:</strong> Vídeo<br>📈 <strong>Nível:</strong> Iniciante  → Intermediário"
+    description: "Vídeo de três horas produzido pela equipe brasileira de treinamento da AWS."
+    url: "https://pages.awscloud.com/LATAM-event-OE-get-cert-saa-ptbr-sob-demanda-2022-confirmation.html"
+
+ingles:
+  - title: "DigitalCloud – Cheat Sheets"
+    badge_class: free
+    badge_text: Gratuito
+    meta: "🌐 <strong>Tipo:</strong> Website<br>📈 <strong>Nível:</strong> Iniciante  → Intermediário"
+    description: "Cheat sheets com os principais serviços e conceitos cobrados no exame."
+    url: "https://digitalcloud.training/category/aws-cheat-sheets/aws-solutions-architect-associate/"
+
+  - title: "Udemy – Ultimate AWS Certified Solutions Architect Associate"
+    badge_class: paid
+    badge_text: Pago
+    meta: "🎓 <strong>Tipo:</strong> Curso<br>📈 <strong>Nível:</strong> Iniciante  → Intermediário"
+    description: "Curso ministrado por Stephane Maarek, um dos instrutores mais conhecidos de AWS."
+    url: "https://trk.udemy.com/yZrE2W"

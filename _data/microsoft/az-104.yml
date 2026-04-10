@@ -1,0 +1,22 @@
+portugues:
+  - title: "Revisão prática AZ-104"
+    badge_class: free
+    badge_text: Gratuito
+    meta: "📺 <strong>Tipo:</strong> YouTube<br>📈 <strong>Nível:</strong> Iniciante  → Intermediário"
+    description: "Live de aproximadamente 6 horas disponibilizada por Raphael Andrade, com foco em revisão prática para o exame."
+    url: "https://www.youtube.com/watch?v=vkHZjrUd-qM"
+
+ingles:
+  - title: "Microsoft Documentation"
+    badge_class: free
+    badge_text: Gratuito
+    meta: "🌐 <strong>Tipo:</strong> Website<br>📈 <strong>Nível:</strong> Iniciante  → Intermediário"
+    description: "Página oficial da certificação, contendo trilhas de aprendizado, detalhes do exame, custos e habilidades avaliadas."
+    url: "https://docs.microsoft.com/en-us/certifications/exams/az-104"
+
+  - title: "Udemy - AZ-104 Exam Prep"
+    badge_class: paid
+    badge_text: Pago
+    meta: "🎓 <strong>Tipo:</strong> Curso<br>📈 <strong>Nível:</strong> Iniciante  → Intermediário"
+    description: "Curso completo na Udemy ministrado por Scott Duffy."
+    url: "https://trk.udemy.com/QYKzbz"

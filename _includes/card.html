@@ -1,0 +1,22 @@
+<div class="card">
+  <div class="card-header">
+    <h4>{{ include.title }}</h4>
+    <span class="badge {{ include.badge_class }}">
+      {{ include.badge_text }}
+    </span>
+  </div>
+
+  <p class="card-meta">
+    {{ include.meta }}
+  </p>
+
+  <p>
+    {{ include.description }}
+  </p>
+
+  <div class="card-footer">
+    <a href="{{ include.url }}" target="_blank" rel="noopener noreferrer">
+      Acessar conteúdo
+    </a>
+  </div>
+</div>
