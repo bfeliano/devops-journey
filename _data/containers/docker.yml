@@ -1,0 +1,22 @@
+portugues:
+  - title: "LinuxTips - Descomplicando o Docker"
+    badge_class: free
+    badge_text: Gratuito
+    meta: "📺 <strong>Tipo:</strong> YouTube<br>📈 <strong>Nível:</strong> Iniciante → Avançado"
+    description: "Curso completo de Docker produzido pela LinuxTips, abordando desde conceitos básicos até tópicos mais avançados."
+    url: "https://www.youtube.com/playlist?list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR"
+
+  - title: "LinuxTips - Descomplicando o Docker"
+    badge_class: free
+    badge_text: Gratuito
+    meta: "📘 <strong>Tipo:</strong> eBook<br>📈 <strong>Nível:</strong> Iniciante → Avançado"
+    description: "E-book da LinuxTips com explicações detalhadas sobre Docker, uso prático e boas práticas."
+    url: "https://livro.descomplicandodocker.com.br"
+
+ingles:
+  - title: "Docker and Kubernetes - Full Course for Beginners"
+    badge_class: free
+    badge_text: Gratuito
+    meta: "📺 <strong>Tipo:</strong> YouTube<br>📈 <strong>Nível:</strong> Iniciante"
+    description: "Curso introdutório de aproximadamente quatro horas, criado em parceria entre freeCodeCamp e Amigoscode, cobrindo Docker e Kubernetes."
+    url: "https://www.youtube.com/watch?v=Wf2eSG3owoA)"

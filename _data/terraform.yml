@@ -1,0 +1,22 @@
+portugues:
+  - title: "Punk do DevOps - Terraform"
+    badge_class: free
+    badge_text: Gratuito
+    meta: "📺 <strong>Tipo:</strong> YouTube<br>📈 <strong>Nível:</strong> Iniciante → Intermediário"
+    description: "Playlist criada pelo canal Punk do DevOps, cobrindo conceitos fundamentais de Terraform."
+    url: "https://www.youtube.com/playlist?list=PLFfGe1VU0nwQlT5l9dQa-Qgbyawd424Ux"
+
+ingles:
+  - title: "Hashicorp Learn"
+    badge_class: free
+    badge_text: Gratuito
+    meta: "🌐 <strong>Tipo:</strong> Website<br>📈 <strong>Nível:</strong> Iniciante"
+    description: "Tutoriais oficiais da HashiCorp focados no exame Terraform Associate."
+    url: "https://learn.hashicorp.com/collections/terraform/certification-associate-tutorials"
+
+  - title: "ExamPro – HashiCorp Certified: Terraform Associate"
+    badge_class: freetier
+    badge_text: Gratuito*
+    meta: "🎓 <strong>Tipo:</strong> Curso<br>📈 <strong>Nível:</strong> Iniciante → Intermediário"
+    description: "Curso alinhado ao conteúdo da certificação, incluindo um exame prático. A versão paga oferece exames adicionais."
+    url: "https://www.exampro.co/terraform"    
