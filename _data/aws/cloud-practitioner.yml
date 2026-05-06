@@ -38,6 +38,6 @@ ingles:
   - title: "Whizlabs – AWS Certified Cloud Practitioner"
     badge_class: paid
     badge_text: Pago
-    meta: "📝 <strong>Tipo:</strong> Simulados<br>📈 <strong>Nível:</strong> Fundamental"
+    meta: "📝 <strong>Tipo:</strong> Simulados<br>📈 <strong>Nível:</strong> Iniciante"
     description: "Conjunto de simulados bastante recomendado para revisão final."
     url: "https://www.whizlabs.com/aws-certified-cloud-practitioner/"

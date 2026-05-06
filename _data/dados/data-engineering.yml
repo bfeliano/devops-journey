@@ -1,0 +1,50 @@
+portugues:
+  - title: "Databricks – Free Edition (Hands-on)"
+    badge_class: free
+    badge_text: Gratuito
+    meta: "🧪 <strong>Tipo:</strong> Website<br>📈 <strong>Nível:</strong> Iniciante → Intermediário"
+    description: "Ambiente gratuito do Databricks para praticar com notebooks SQL e Python, construir pipelines ETL e explorar conceitos de engenharia de dados em um cenário real."
+    url: "https://www.databricks.com/br/learn/free-edition"
+
+  - title: "Udemy – Databricks Developer (SQL e Python para Análise de Dados)"
+    badge_class: paid
+    badge_text: Pago
+    meta: "🎓 <strong>Tipo:</strong> Curso<br>📈 <strong>Nível:</strong> Iniciante → Intermediário"
+    description: "Curso prático voltado ao uso do Databricks com SQL e Python (PySpark), cobrindo manipulação de dados, ETL, análise de dados e uso da plataforma no dia a dia."
+    url: "https://trk.udemy.com/rE255B"
+
+  - title: "Udemy – Engenharia de Dados com Databricks (SQL, Spark e Lakehouse)"
+    badge_class: paid
+    badge_text: Pago
+    meta: "🎓 <strong>Tipo:</strong> Curso<br>📈 <strong>Nível:</strong> Intermediário → Avançado"
+    description: "Curso focado em engenharia de dados com Databricks, abordando arquitetura Lakehouse, Delta Lake, pipelines ETL, Unity Catalog e implementação de projetos práticos em ambiente real."
+    url: "https://trk.udemy.com/Pz655q"
+
+ingles:
+  - title: "YouTube – Databricks Full Course (Hands-on Project)"
+    badge_class: free
+    badge_text: Gratuito
+    meta: "📺 <strong>Tipo:</strong> Curso / YouTube<br>📈 <strong>Nível:</strong> Iniciante → Intermediário"
+    description: "Curso completo de Databricks com projeto prático, cobrindo fundamentos da plataforma, Spark, SQL e desenvolvimento de pipelines de dados."
+    url: "https://www.youtube.com/watch?v=761SQ9Hxbic"
+
+  - title: "Udemy – Databricks Certified Data Engineer Associate (Ultimate Prep)"
+    badge_class: paid
+    badge_text: Pago
+    meta: "🎓 <strong>Tipo:</strong> Curso / Certificação<br>📈 <strong>Nível:</strong> Intermediário"
+    description: "Curso preparatório para a certificação Databricks Certified Data Engineer Associate, cobrindo conceitos de engenharia de dados, Spark, Delta Lake e práticas cobradas no exame."
+    url: "https://trk.udemy.com/enAmmZ"
+
+  - title: "PySpark.in – Data Engineering Learning Platform"
+    badge_class: free
+    badge_text: Gratuito
+    meta: "🌐 <strong>Tipo:</strong> Website<br>📈 <strong>Nível:</strong> Iniciante → Avançado"
+    description: "Plataforma gratuita com centenas de tutoriais sobre PySpark, SQL e engenharia de dados, incluindo exemplos práticos, exercícios e preparação para entrevistas."
+    url: "https://pyspark.in/"
+
+  - title: "DataTalks Club – Data Engineering Zoomcamp"
+    badge_class: free
+    badge_text: Gratuito
+    meta: "🎓 <strong>Tipo:</strong> Curso<br>📈 <strong>Nível:</strong> Intermediário"
+    description: "Trilha completa e gratuita de engenharia de dados, cobrindo pipelines, cloud, processamento de dados e ferramentas modernas utilizadas no mercado."
+    url: "https://datatalks.club/blog/free-data-engineering-courses.html"
