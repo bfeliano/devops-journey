@@ -47,6 +47,9 @@ Azure DevOps e certificações como AZ-104 e AZ-400.
   Cursos e referências sobre linguagens de programação utilizadas em
 automação e DevOps.
 
+- **[Dados](dados/)**  
+  Conteúdos sobre engenharia de dados, Databricks, análise de dados, etc.
+
 ## 🎯 Observação
 
 Este repositório é **vivo** e será atualizado conforme novos recursos
