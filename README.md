@@ -3,12 +3,12 @@
 <div style="text-align: center;">
   <a href="https://github.com/bfeliano/devops-journey/" target="_blank">
     <img
-      src="https://img.shields.io/badge/GitHub-devops--journey-181717?style=flat&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/GitHub-devops--journey-000000?style=flat&logo=github&logoColor=white"
       alt="GitHub repository"
     />
   </a>
   <a href="https://github.com/bfeliano/devops-journey" target="_blank">
-    <img src="https://img.shields.io/github/stars/bfeliano/devops-journey?style=flat&logo=github&color=181717">
+    <img src="https://img.shields.io/github/stars/bfeliano/devops-journey?style=flat&label=stars&logo=github&color=000000">
   </a>
 </div>
 
