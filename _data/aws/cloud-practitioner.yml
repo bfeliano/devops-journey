@@ -13,6 +13,20 @@ portugues:
     description: "Conjunto de simulados bastante recomendado para revisão final."
     url: "https://trk.udemy.com/7XbLmQ"
 
+  - title: "AWS Skill Builder – AWS Cloud Quest: Recertificação Cloud Practitioner"
+    badge_class: free
+    badge_text: Gratuito
+    meta: "🎮 <strong>Tipo:</strong> Hands-on / Game<br>📈 <strong>Nível:</strong> Iniciante → Intermediário"
+    description: "Experiência interativa gamificada da AWS para reforçar conhecimentos do Cloud Practitioner por meio de cenários práticos e desafios hands-on. Ao concluir todas as tarefas, é possível <strong>renovar automaticamente a certificação AWS Certified Cloud Practitioner</strong> por mais 3 anos, sem necessidade de realizar o exame, além de obter um badge adicional."
+    url: "https://skillbuilder.aws/learn/WWVDFJCJVB/aws-cloud-quest-recertificao-cloud-practitioner/9RPHJ39EFM"
+
+  - title: "AWS Skill Builder – AWS Cloud Practitioner Essentials (Português)"
+    badge_class: free
+    badge_text: Gratuito
+    meta: "🎓 <strong>Tipo:</strong> Curso<br>📈 <strong>Nível:</strong> Iniciante"
+    description: "Curso oficial da AWS que cobre os principais conceitos da certificação Cloud Practitioner, incluindo fundamentos de cloud, serviços AWS, segurança, arquitetura e modelos de pricing."
+    url: "https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials-portugus/V1ZR7QAGKS"
+
 ingles:
   - title: "DigitalCloud – Cheat Sheets"
     badge_class: free
