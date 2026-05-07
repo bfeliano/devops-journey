@@ -15,7 +15,8 @@
 Bem-vindo(a) ao repositório **DevOps Journey** 👋
 
 Este repositório foi criado para reunir links, materiais de estudo e
-referências que me ajudaram ao longo da minha jornada profissional.  
+referências que fizeram parte da minha jornada profissional ou que considero
+úteis e relevantes para quem está estudando DevOps e Cloud.  
 
 O objetivo é servir como um **repositório central de recursos**, que possa
 apoiar pessoas em diferentes níveis de experiência que buscam se aprofundar
@@ -56,6 +57,15 @@ Este repositório é **vivo** e será atualizado conforme novos recursos
 forem sendo descobertos ou conforme minha experiência evoluir.  
 Sinta-se à vontade para explorar, estudar e adaptar os conteúdos à sua
 própria jornada.  
+
+## 🐞 Problemas ou sugestões
+
+Se você encontrar algum link quebrado, conteúdo desatualizado ou tiver
+alguma sugestão de melhoria, fique à vontade para abrir uma issue.  
+
+Isso ajuda a manter o repositório sempre atualizado e útil para todos 🙌  
+
+👉 [Abrir uma issue](https://github.com/bfeliano/devops-journey/issues)
 
 ## 🤝 Contribuições
 
